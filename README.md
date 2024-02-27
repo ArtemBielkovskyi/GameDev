@@ -7,3 +7,6 @@ Step to open a game:
 2) Extract into comfortable place
 3) Open "MyRunner1.exe" file
 4) Enjoy!
+
+
+*This is just a raw game, base to create bigger one and to improve it. So don't blame me🤔*
