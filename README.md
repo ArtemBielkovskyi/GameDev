@@ -2,7 +2,7 @@
 I just added a couple of little projects created by me. Mainly this is just a small games which I have created by myself. 
 
 
-Step to open a game:
+Steps to open a game:
 1) Download RAR file
 2) Extract into comfortable place
 3) Open "MyRunner1.exe" file
